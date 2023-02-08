@@ -25,6 +25,7 @@ In this exercise, you will create tests to verify that the texts of the menu sec
 
 •  Extract value.
 
+•  Check the api text response to match the json
 
 ## 📖 Data source
 
